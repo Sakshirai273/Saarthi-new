@@ -1,0 +1,26 @@
+.city{
+    background: green;
+    padding: 20px;
+    border-radius: 10px;
+    border: 1px solid black;
+    /* margin-top: 20px; */
+
+}
+
+.add{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.text{
+    color: black;
+    margin: 20px;
+}
+
+.link{
+    color: black;
+}
+
+.link:hover{
+    color: black;
+}

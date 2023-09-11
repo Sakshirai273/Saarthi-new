@@ -1,0 +1,26 @@
+* {
+	font-family: Arial, Helvetica, sans-serif;
+	box-sizing: border-box;
+}
+
+.image{
+    border-radius: 100%;
+    width: 80px;
+    height: 80px;
+    /* display: inline; */
+    /* background-color: rgb(224, 248, 8); */
+}
+
+.borderrate{
+    /* float: right; */
+    /* border: 1px solid rgb(230, 74, 196); */
+    /* width: 40vw; */
+    border-radius: 20px;
+}
+.guide{
+    display: flex;
+}
+.name{
+    margin-top: 20px;
+    margin-left: 20px;
+}

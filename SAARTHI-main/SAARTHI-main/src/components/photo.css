@@ -1,0 +1,27 @@
+.photo {
+    height: 300px;
+    width: 100%; 
+}
+.important{
+    height: 200px;
+    width: 100%;
+}
+
+.name{
+    list-style-type: none;
+    
+}
+.yash{
+    float: left;
+    display: block;
+     font-size: large;
+    /* font-family: cursive;  */
+}
+.sp{
+    font-size: larger;
+    font-weight: 400;
+}
+.ra{
+   color: rgb(102, 30, 30);
+
+}

@@ -1,0 +1,30 @@
+.navimage{
+    margin-right: 250px;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.navDrop{
+    width: 0px;
+    border-color: transparent;
+    background-color: transparent;
+}
+.navDrop:hover{
+    background: transparent;
+    border-color: transparent;
+}
+
+.navDropBtn{
+    color: white;
+    font-size: 20px;
+    margin-top: 0px;
+    display: inline-block;
+}
+.drop{
+    text-align: center;
+    font-size: large;
+}
+
+.wnav{
+    color: black;
+}

@@ -1,0 +1,24 @@
+.loginButton{
+    /* width: 400px; */
+    padding: 10px 70px;
+    color: black;
+    border: 1px solid black;
+    background-color: green;
+    text-decoration: none;
+    border-radius: 10px;
+    width: auto;
+}
+.buttoncontrol{
+    margin-top: 23px;
+    margin-left: 20px;
+}
+
+.loginButton:hover{
+    color: black;
+}
+
+.formback{
+    background-color: rgb(192, 196, 200);
+    padding: 60px;
+    border-radius: 10px;
+}

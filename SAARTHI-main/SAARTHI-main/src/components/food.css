@@ -1,0 +1,30 @@
+.foodCard{
+    display: flex;
+    border: 1px solid black;
+    width: 1000px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.cardIamge{
+    height: 100px;
+    margin-right: 40px;
+    margin-top: 20px;
+    margin-left: 10px;
+    border-radius: 10px;
+}
+.text{
+    margin: 20px;
+}
+
+.reaction{
+    margin: 30px 0px 0px 650px;
+    padding: 10px;
+    background-color: green;
+    width: 100px;
+    border-radius: 10px;
+}
+
+.card{
+    padding: 10px;
+}
